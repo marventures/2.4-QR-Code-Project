@@ -30,8 +30,8 @@ Ensure you have Node.js installed on your local machine.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/qr-code-project.git
-   cd qr-code-project
+   git clone https://github.com/marventures/qr-code-nodejs.git
+   cd qr-code-nodejs
    ```
 
 2. Install dependencies:
